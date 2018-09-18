@@ -1,0 +1,56 @@
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\bin\Debug\TP 1.exe
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\bin\Debug\TP 1.pdb
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\bin\Debug\TP 1.exe.config
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Kenji\tp_laboratorio_2-master\TP 1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\TP 1.exe
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\TP 1.pdb
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\TP 1.exe.config
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\TP 1.exe
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\TP 1.pdb
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\bin\Debug\TP 1.exe.config
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Kenji\tp_laboratorio_2\TP 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\bin\Debug\TP 1.exe
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\bin\Debug\TP 1.pdb
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\bin\Debug\TP 1.exe.config
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\MiCalculadora\obj\Debug\MiCalculadora.Calculadora.resources

@@ -1,0 +1,28 @@
+C:\Kenji\tp_laboratorio_2-master\TP 1\TP 1\bin\Debug\TP 1.exe.config
+C:\Kenji\tp_laboratorio_2-master\TP 1\TP 1\bin\Debug\TP 1.exe
+C:\Kenji\tp_laboratorio_2-master\TP 1\TP 1\bin\Debug\TP 1.pdb
+C:\Kenji\tp_laboratorio_2-master\TP 1\TP 1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Kenji\tp_laboratorio_2-master\TP 1\TP 1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Kenji\tp_laboratorio_2-master\TP 1\TP 1\obj\Debug\TP 1.exe
+C:\Kenji\tp_laboratorio_2-master\TP 1\TP 1\obj\Debug\TP 1.pdb
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\TP 1\bin\Debug\TP 1.exe.config
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\TP 1\bin\Debug\TP 1.exe
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\TP 1\bin\Debug\TP 1.pdb
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\TP 1\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\TP 1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\TP 1\obj\Debug\TP 1.exe
+D:\utn\Segundo cuatri\tp_laboratorio_2\tp_laboratorio_2\TP 1\TP 1\obj\Debug\TP 1.pdb
+C:\Kenji\tp_laboratorio_2\TP 1\TP 1\bin\Debug\TP 1.exe.config
+C:\Kenji\tp_laboratorio_2\TP 1\TP 1\bin\Debug\TP 1.exe
+C:\Kenji\tp_laboratorio_2\TP 1\TP 1\bin\Debug\TP 1.pdb
+C:\Kenji\tp_laboratorio_2\TP 1\TP 1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Kenji\tp_laboratorio_2\TP 1\TP 1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Kenji\tp_laboratorio_2\TP 1\TP 1\obj\Debug\TP 1.exe
+C:\Kenji\tp_laboratorio_2\TP 1\TP 1\obj\Debug\TP 1.pdb
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\TP 1\bin\Debug\TP 1.exe.config
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\TP 1\bin\Debug\TP 1.exe
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\TP 1\bin\Debug\TP 1.pdb
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\TP 1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\TP 1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\TP 1\obj\Debug\TP 1.exe
+C:\Users\gustavo.de.marinis\Desktop\Tp de kenji\TP 1\TP 1\obj\Debug\TP 1.pdb
